@@ -1,6 +1,6 @@
 {
   "name": "react-native-media-kit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Video and Audio component for react-native apps, supporting both iOS and Android.",
   "main": "library/index.js",
   "scripts": {
@@ -28,6 +28,7 @@
   },
   "peerDependencies": {
     "react-native-slider": "^0.9.1",
-    "react-native-vector-icons": "^4.1.1"
+    "react-native-vector-icons": "^4.1.1",
+    "prop-types": "^15.6.2"
   }
 }
