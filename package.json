@@ -1,6 +1,6 @@
 {
   "name": "react-native-media-kit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Video and Audio component for react-native apps, supporting both iOS and Android.",
   "main": "library/index.js",
   "scripts": {

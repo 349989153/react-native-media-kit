@@ -19,7 +19,7 @@ public class MediaKitPackage implements ReactPackage {
   }
 
 
-  @Override
+  // @Override deprecated: rn 0.47.0
   public List<Class<? extends JavaScriptModule>> createJSModules() {
     return Collections.emptyList();
   }
