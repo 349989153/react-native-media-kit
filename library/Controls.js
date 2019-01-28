@@ -147,7 +147,7 @@ export default class Controls extends React.Component {
                 <Text style={controlStyle.timeText}>{currentFormated}</Text>
                 <Slider
                     style={[controlStyle.processBarContainer,(this.props.rotation?{width:height-200}:{width:width-200})]}
-                    thumbImage={require('./img/media-player-thumb.png')}
+                    // thumbImage={require('./img/media-player-thumb.png')}
                     trackStyle={controlStyle.processBarTrack}
                     thumbStyle={controlStyle.processBarThumb}
 
@@ -233,6 +233,6 @@ const controlStyle = StyleSheet.create({
         shadowOffset: {width: 0, height: 2},
         shadowRadius: 2,
         shadowOpacity: 0.35,
-        top:20
+        // top:20
     }
 })
