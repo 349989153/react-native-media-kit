@@ -1,12 +1,12 @@
 {
   "name": "react-native-media-kit",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Video and Audio component for react-native apps, supporting both iOS and Android.",
   "main": "library/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "xukj",
+  "author": "xukj <xuwaer@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
@@ -28,7 +28,7 @@
   },
   "peerDependencies": {
     "react-native-slider": "^0.9.1",
-    "react-native-vector-icons": "^4.1.1",
+    "react-native-vector-icons": ">=4.1.1",
     "prop-types": "^15.6.2"
   }
 }
