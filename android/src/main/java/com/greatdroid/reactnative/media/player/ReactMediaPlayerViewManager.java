@@ -2,7 +2,7 @@ package com.greatdroid.reactnative.media.player;
 
 import android.app.Activity;
 import android.content.pm.ActivityInfo;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.Log;
 import android.view.WindowManager;
 
